@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_pf-60cSXEe62P-_EJFbLvg" label="demo_accor_cicd_v3" language="java" technicalLabel="DEMO_ACCOR_CICD_V3" author="_pf-60sSXEe62P-_EJFbLvg" productVersion="Talend Cloud Data Fabric-8.0.1.20240118_0425-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/gitusertraining/demo_accor_cicd_v3.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_pg9yQMSXEe62P-_EJFbLvg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_pf-60sSXEe62P-_EJFbLvg" login="nrehman@support.talend.eu" firstName="Nagma" lastName="Rehman" type="DQ"/>
+</xmi:XMI>
